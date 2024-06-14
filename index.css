@@ -1,0 +1,437 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.d-block {
+  height: 600px;
+}
+
+#logo {
+  height: 100px;
+  border-radius: 50%;
+}
+
+.carousel h5 {
+  font-weight: bolder;
+  color: white;
+}
+
+#b1 {
+  width: 300px;
+  height: 50px;
+  font-weight: bolder;
+  border-radius: 50px;
+}
+
+#b1:hover {
+  color: white;
+  background-color: green;
+}
+.nav {
+  width: 100%;
+  height: 100px;
+  background-color: aliceblue;
+}
+.nav a {
+  text-decoration: none;
+  font-size: 25px;
+  padding: 35px;
+  margin-left: 60px;
+  text-transform: capitalize;
+  color: rgb(219, 123, 6);
+}
+
+.nav a:hover {
+  text-decoration: underline;
+  color: green;
+  text-shadow: 1px 1px gold;
+}
+.fa-solid {
+  font-size: 25px;
+  position: relative;
+  top: 45px;
+  margin-left: 10px;
+}
+span {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.div2 {
+  width: 80%;
+  height: 100px;
+  background-color: rgb(238, 169, 80);
+  border-radius: 50px;
+  margin-left: 100px;
+}
+.div2 h1 {
+  font-size: 34px;
+  margin-left: 35px;
+  position: relative;
+  top: 10px;
+}
+
+.div2 button {
+  margin-left: 810px;
+  position: relative;
+  bottom: 40px;
+  border-radius: 50px;
+  width: 200px;
+  height: 50px;
+  font-weight: bolder;
+}
+.div2 button:hover {
+  color: white;
+  background-color: green;
+}
+.div3 {
+  margin-left: 150px;
+  position: relative;
+  top: 60px;
+}
+.div3 p {
+  color: rgb(27, 25, 25);
+  font-size: 20px;
+  width: 500px;
+}
+.div3 img {
+  margin-left: 700px;
+  position: relative;
+  bottom: 500px;
+}
+
+.card {
+  margin-left: 60px;
+}
+
+.card2 {
+  margin-left: 400px;
+  position: relative;
+  bottom: 360px;
+}
+
+.card3 {
+  margin-left: 700px;
+  position: relative;
+  bottom: 710px;
+}
+
+.card4 {
+  margin-left: 980px;
+  position: relative;
+  bottom: 1035px;
+}
+
+.div4 {
+  position: relative;
+  bottom: 900px;
+}
+
+.div4 h1 {
+  text-align: center;
+  position: relative;
+  bottom: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#p1 {
+  width: 350px;
+  margin-left: 30px;
+}
+#p2 {
+  width: 350px;
+  margin-left: 450px;
+  position: relative;
+  bottom: 204px;
+}
+#p3 {
+  width: 350px;
+  margin-left: 900px;
+  position: relative;
+  bottom: 384px;
+}
+.div5 {
+  position: relative;
+  bottom: 1100px;
+}
+.div5 img {
+  margin-left: 700px;
+  position: relative;
+  bottom: 360px;
+}
+
+.div5 h2 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.div5 p {
+  text-transform: capitalize;
+  font-size: 21px;
+  width: 600px;
+}
+
+.div6 {
+  position: relative;
+  bottom: 1200px;
+}
+.div6 img {
+  margin-left: 700px;
+  position: relative;
+  bottom: 360px;
+}
+
+.div6 h3 {
+  position: relative;
+  bottom: 50px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.div6 p {
+  text-transform: capitalize;
+  font-size: 21px;
+  width: 600px;
+}
+
+.div7 {
+  width: 100%;
+  height: 280px;
+  background-color: rgb(255, 185, 94);
+  position: relative;
+  bottom: 1450px;
+}
+
+.div7 h2 {
+  text-align: center;
+  position: relative;
+  top: 50px;
+  font-size: 40px;
+}
+#b2 {
+  color: white;
+  width: 240px;
+  height: 50px;
+  margin-left: 900px;
+  font-weight: bolder;
+  border-radius: 50px;
+  background-color: black;
+}
+
+#b2:hover {
+  background-color: rgb(0, 155, 0);
+}
+
+.div8 img {
+  border-radius: 50px;
+  position: relative;
+  top: 150px;
+  margin-left: 150px;
+}
+
+.div8 p {
+  width: 400px;
+}
+
+.div8 {
+  position: relative;
+  right: 60px;
+}
+.div8 h2 {
+  text-align: center;
+  margin-left: 120px;
+  position: relative;
+  top: 60px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.p3 {
+  margin-left: 300px;
+}
+
+.p4 {
+  margin-left: 340px;
+  position: relative;
+  top: 9px;
+}
+
+.abc {
+  position: relative;
+  margin-left: 550px;
+  bottom: 320px;
+}
+.abc img {
+  margin-left: 190px;
+  position: relative;
+  top: 160px;
+}
+
+.man {
+  position: relative;
+  bottom: 1470px;
+}
+
+.div9 input {
+  padding: 8px;
+  width: 350px;
+  margin: 10px;
+  margin-left: 100px;
+}
+.div9 {
+  position: relative;
+  bottom: 1680px;
+}
+.div9 button {
+  color: rgb(0, 0, 0);
+  width: 240px;
+  height: 50px;
+  margin-left: 100px;
+  font-weight: bolder;
+  border-radius: 50px;
+  background-color: rgb(201, 149, 81);
+}
+#email {
+  position: relative;
+  right: 100px;
+}
+.div9 h1 {
+  margin-left: 100px;
+  position: relative;
+  bottom: 70px;
+}
+.div10 p {
+  width: 300px;
+  margin-left: 100px;
+}
+
+.div10 {
+  margin-left: 870px;
+  position: relative;
+  bottom: 345px;
+}
+.box {
+  position: relative;
+  bottom: 1200px;
+}
+
+.footer {
+  width: 100%;
+  height: 450px;
+  background-color: rgb(34, 34, 34);
+  position: relative;
+  bottom: 1900px;
+}
+
+.footer iframe {
+  margin-left: 1050px;
+  position: relative;
+  top: 140px;
+}
+
+.footer h4 {
+  color: aliceblue;
+  margin-left: 1050px;
+  position: relative;
+  top: 120px;
+  text-decoration: underline yellow;
+}
+
+.footer {
+  color: white;
+}
+
+.footer h5 {
+  text-decoration: underline yellow;
+  color: white;
+}
+
+.add {
+  margin-left: 100px;
+  position: relative;
+  bottom: 130px;
+}
+.add p {
+  width: 200px;
+}
+
+.add2 {
+  margin-left: 400px;
+  position: relative;
+  bottom: 170px;
+}
+
+.add3 {
+  margin-left: 700px;
+  position: relative;
+  bottom: 370px;
+}
+
+.over {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(80, 79, 79);
+  position: relative;
+  bottom: 380px;
+}
+
+.over h2 {
+  color: black;
+  font-size: 22px;
+  text-align: center;
+  position: relative;
+  top: 20px;
+  text-shadow: 1px 1px gold;
+}
+
+#a1:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#a2:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#a3:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#a4:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#a5:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#a6:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#a7:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+#bb {
+  width: 450px;
+  height: 280px;
+  position: relative;
+  bottom: 6390px;
+  margin-left: 750px;
+}
+.div3 img {
+  width: 450px;
+  height: 280px;
+  position: relative;
+  right: 100px;
+  bottom: 610px;
+}
+
+#aaa{
+    position: relative;
+    top: 70px;
+}
